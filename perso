@@ -34,3 +34,8 @@
 
 # Go to folder
         - z <folder>
+
+# Cheat
+        - ? <command> # Diplay help of command
+        - ?? # Display this help
+        - cheat-update # Update cheats
